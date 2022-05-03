@@ -1,7 +1,7 @@
 #!/bin/bash
 # ====================================================
 # Script para rodar a atividade 1 da aula 07
-# Autor: Matheus Bazoti		Data:03/05/22
+# Autor: Matheus Bazoti		Data de entrega: 04/05/22
 # ====================================================
 
 echo "==========================================="

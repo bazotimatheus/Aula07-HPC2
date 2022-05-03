@@ -1,7 +1,7 @@
 #!/bin/bash
 # ====================================================
 # Script para rodar a atividade 5 da aula 07
-# Autor: Matheus Bazoti		Data:02/05/22
+# Autor: Matheus Bazoti		Data de entrega: 04/05/22
 # ====================================================
 
 # Para a atividade 5 o makefile irá compilar o código
