@@ -42,7 +42,7 @@ int main(int argc, char **argv) {
 
 		printf("\n Valor obtido de PI: \t%lf", pi);
 		printf("\n Valor de PI(math.h): \t%lf", M_PI);
-		printf("\n Erro: \t\t\t%lf", erro);
+		printf("\n Erro: \t\t\t%lf\n\n", erro);
 	}
 	else {
 		MPI_Recv(&recvn_points, 1, MPI_DOUBLE, master, tag, MPI_COMM_WORLD, &rstatus);

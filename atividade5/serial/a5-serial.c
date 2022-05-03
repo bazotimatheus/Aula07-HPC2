@@ -22,5 +22,5 @@ int main(int argc, char **argv) {
 
 	printf("\nValor obtido de PI: %lf", pi);
 	printf("\nValor de PI (math.h): %lf", M_PI);
-	printf("\nErro: %lf", erro);
+	printf("\nErro: %lf\n\n", erro);
 }

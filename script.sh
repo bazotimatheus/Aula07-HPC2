@@ -1,11 +1,11 @@
 #!/bin/bash
 # =========================================================
-# Script para rodar as atividades 3, 4 e 5 da aula 07
+# Script para rodar as atividades da aula 07
 # Aluno: Matheus Bazoti			Data: 02/05/22
 # =========================================================
 
-# Roda as atividades 3 e 4
-for i in 3 4
+# Roda as atividades 1 até 4
+for i in $(seq 1 1 4)
 do
 cd atividade$i
 sh script.sh
